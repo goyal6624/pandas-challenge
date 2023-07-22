@@ -10,7 +10,7 @@ The analysis was performed using two datasets:
 
 2. `students_complete.csv`: This CSV file includes data on individual students, such as their names, gender, grade levels, subject scores, and the schools they attend.
 
-Both datasets can be found in the `Resources` folder within the `PyCitySchools` directory.
+Both datasets can be found in the `Resources` folder.
 
 ## Jupyter Notebook
 
