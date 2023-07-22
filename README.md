@@ -1,4 +1,4 @@
-# PyCitySchools Data Analysis
+# PyCitySchools Data Analysis Challenge
 
 This repository contains a Jupyter Notebook file named `PyCitySchools.ipynb`, where I conducted a comprehensive data analysis on student performance and school data. The analysis involved exploring various variables, calculating statistics, and deriving insights to gain a better understanding of a city's educational landscape.
 
